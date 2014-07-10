@@ -21,6 +21,7 @@ require 'gorillib/core_ext/exception'
 require 'gorillib/core_ext/module'
 require 'gorillib/core_ext/object'
 
+require 'gorillib/model/version'
 require 'gorillib/model/factories'
 require 'gorillib/model/named_schema'
 require 'gorillib/model/validate'
