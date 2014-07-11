@@ -1,3 +1,5 @@
+require 'gorillib/model'
+require 'gorillib/model/collection'
 require 'gorillib/model/collection/model_collection'
 
 module Gorillib
